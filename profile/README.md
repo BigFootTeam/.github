@@ -18,7 +18,7 @@
 ### 独立精品插件 | Featured Addons
 
 - **[BFCraftsman](https://github.com/BigFootTeam/BFCraftsman)** (大脚工匠) - 连接工匠与客户的游戏内制作服务平台
-- **BFBlackMarket** (大脚黑市) - 在服务器内共享黑市拍卖行物品信息，支持物品关注与提醒功能的专业插件
+- **[BFBlackMarket](https://github.com/BigFootTeam/BFBlackMarket)** (大脚黑市) - 在服务器内共享黑市拍卖行物品信息，支持物品关注与提醒功能的专业插件
 - **BFInfinite** (BFI) - 完整的魔兽世界用户界面整合插件套装，类似 ElvUI，提供全面的界面美化与功能增强
 
 ## 社区 | Community
